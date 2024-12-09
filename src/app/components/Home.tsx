@@ -13,8 +13,8 @@ export default function Home() {
         he picked up his first guitar from a second-hand store, learning tracks
         from icons like Creedence Clearwater Revival, The Who, and Grand Funk
         Railroad. Growing up immersed in the sounds of Deep Purple, AC/DC, Def
-        Leppard, and Guns N' Roses, Jackson credits his family for shaping his
-        timeless rock-inspired style.
+        Leppard, and Guns N&apos; Roses, Jackson credits his family for shaping
+        his timeless rock-inspired style.
       </p>
     </>
   );

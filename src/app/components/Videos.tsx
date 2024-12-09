@@ -2,7 +2,7 @@ export default function Videos() {
   return (
     <>
       <h2 className="text-3xl font-bold text-center mb-10">
-        Have You Seen Jackson Colt's Videos?
+        Have You Seen Jackson Colt&apos;s Videos?
       </h2>
       <p className="flex direction-row place-content-evenly gap-20 mt-4 text-lg text-center">
         <iframe
