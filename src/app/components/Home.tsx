@@ -2,7 +2,7 @@ export default function Home() {
   return (
     <>
       <h1 className="text-4xl text-center font-bold">
-        Welcome to the Jackson Colt Website!🤘😁🤘
+        Welcome to the Jackson Colt Website!
       </h1>
       <p className="mt-4 text-center text-lg">
         Jackson Colt embodies the spirit of 80s rock with a modern twist. His
