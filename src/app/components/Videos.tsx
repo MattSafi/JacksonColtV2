@@ -4,7 +4,7 @@ export default function Videos() {
       <h2 className="text-3xl font-bold text-center mb-10">
         Have You Seen Jackson Colt&apos;s Videos?
       </h2>
-      <p className="flex direction-row place-content-evenly gap-20 mt-4 text-lg text-center">
+      <p className="flex flex-row flex-wrap md:flex-row place-content-evenly gap-20 mt-4 text-lg text-center">
         <iframe
           width="560"
           height="315"
@@ -27,6 +27,15 @@ export default function Videos() {
           width="560"
           height="315"
           src="https://www.youtube.com/embed/Lhs9vKqv118?si=gdoLHY6hLiAWwqhZ"
+          title="YouTube video player"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          referrerPolicy="strict-origin-when-cross-origin"
+          allowFullScreen
+        ></iframe>
+        <iframe
+          width="560"
+          height="315"
+          src="https://www.youtube.com/embed/thsjLzjH3qM?si=WdtTmQ9j3Q_hquam"
           title="YouTube video player"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
           referrerPolicy="strict-origin-when-cross-origin"
