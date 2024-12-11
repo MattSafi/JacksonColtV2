@@ -24,7 +24,7 @@ export default function Navbar() {
             </Link>
           </li>
           <li>
-            <Link href="#about" className="hover:text-gray-300">
+            <Link href="#videos" className="hover:text-gray-300">
               Videos
             </Link>
           </li>

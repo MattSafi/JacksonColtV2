@@ -16,7 +16,7 @@ export default function Page() {
         <section id="home" className="my-40">
           <Home />
         </section>
-        <section id="about" className="my-40"></section>
+        <section id="videos" className="my-40"></section>
         <Videos />
         <section id="contact" className="my-40">
           <ContactUs />
