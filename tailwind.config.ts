@@ -11,6 +11,17 @@ export default {
       colors: {
         background: "var(--background)",
         foreground: "var(--foreground)",
+        customRed: "#e71818",
+        blackBG: "#000000",
+      },
+      backgroundImage: {
+        parallax: "url('/JacksonColt3.jpeg')",
+      },
+      borderStyle: {
+        double: "double",
+      },
+      transform: {
+        "rotate-y-180": "rotateY(180deg)",
       },
     },
   },
