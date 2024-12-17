@@ -1,5 +1,3 @@
-import StarryBackground from "./StarryBackground";
-
 export default function ContactUs() {
   return (
     <>
