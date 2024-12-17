@@ -4,10 +4,8 @@ import Image from "next/image";
 export default function SocialLinks() {
   return (
     <div className="button-container text-center my-8">
-      <p className="mb-4 text-lg font-medium">
-        Make sure to check out our socials:
-      </p>
-      <div className="flex justify-center space-x-4">
+      <p className="mb-4 text-lg font-medium">Follow Us!</p>
+      <div className="flex justify-center space-x-6">
         <a
           href="https://open.spotify.com/artist/3gIIWO1zON6oNM0MSWUeJ4"
           target="_blank"
@@ -55,7 +53,7 @@ export default function SocialLinks() {
           rel="noopener noreferrer"
           className="hover-button hover:scale-110 ease-in-out duration-300"
         >
-          <Image src="/Youtube_logo.png" alt="youtube" width={50} height={50} />
+          <Image src="/Youtube_logo.png" alt="youtube" width={40} height={40} />
         </a>
       </div>
     </div>
